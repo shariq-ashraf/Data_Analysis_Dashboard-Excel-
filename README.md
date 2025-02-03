@@ -19,3 +19,6 @@ The objective of this project is to create an interactive Excel dashboard for an
 4️⃣ Dashboard Creation – Design an interactive Excel dashboard with visualizations like bar charts, line graphs, pie charts, and heatmaps.
 
 5️⃣ Insights & Decision Making – Identify top-selling products, peak sales periods, and profitable customer segments for business optimization.
+
+## Dashboard
+![EXCEL DASHBOARD](https://github.com/user-attachments/assets/7a338ba5-1d67-4d31-9e63-4deb0638558e)
