@@ -22,3 +22,13 @@ The objective of this project is to create an interactive Excel dashboard for an
 
 ## Dashboard
 ![EXCEL DASHBOARD](https://github.com/user-attachments/assets/7a338ba5-1d67-4d31-9e63-4deb0638558e)
+
+## Project Insights
+✅ Road Bikes & Mountain Bikes are the top-selling product categories.
+✅ Sales peaked in 2015 but declined slightly in 2016.
+✅ The USA is the highest revenue-generating country.
+✅ Customers aged 28-35 contribute the most profit.
+✅ Sales show seasonal trends, with peaks in mid-year and December.
+
+## Final Conclusion:
+The Bike Store Sales Dashboard provides valuable insights into sales trends, customer behavior, and profitability. By analyzing sales by category, region, and time, businesses can optimize their inventory, marketing strategies, and customer targeting to improve revenue and profitability. 🚴📊
